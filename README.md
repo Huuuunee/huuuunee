@@ -13,7 +13,7 @@
 </p>
 <h3 align="center">•••</h3>
 <p align="center" align="right">
- <a href="https://www.instagram.com/huni_huni_21/"><img alt="Instagram" src="https://img.shields.io/badge/m_song_05-%23E4405F.svg?style=for-thebadge&logo=Instagram&logoColor=white"/>
+ <a href="https://www.instagram.com/huni_huni_21/"><img alt="Instagram" src="https://img.shields.io/badge/시훈-%23E4405F.svg?style=for-thebadge&logo=Instagram&logoColor=white"/>
   &nbsp;&nbsp;&nbsp;</a>
  <img alt="Discord" src="https://img.shields.io/badge/시훈1120-%237289DA.svg?style=for-thebadge&logo=discord&logoColor=white"/>
   &nbsp;&nbsp;&nbsp;
