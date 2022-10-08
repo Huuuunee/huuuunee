@@ -1,2 +1,1 @@
-반갑습니다 😎  
-소통을 중요하게 생각하는 개발자입니다!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huuuunee&theme=gruvbox&show_icons=true)
